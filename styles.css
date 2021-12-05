@@ -252,6 +252,12 @@ footer {
     background-color:rgb(136, 136, 136);
 }
 
+iframe {
+  margin: auto;
+  width: 100%;
+  background-color:rgb(136, 136, 136);
+}
+
 .dark footer {
   background-color:rgb(28, 28, 28);
 }
